@@ -37,6 +37,14 @@ export default {
           width: 2500,
           height: 1666,
         },
+        {
+          largeURL:
+            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg',
+          thumbnailURL:
+            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg',
+          width: 2500,
+          height: 1666,
+        },
       ],
     };
   },
