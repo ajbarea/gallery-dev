@@ -31,11 +31,11 @@ export default {
         },
         {
           largeURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg',
+            'src/assets/photos/thumbnail/face1.jpg',
           thumbnailURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg',
-          width: 2500,
-          height: 1666,
+            'src/assets/photos/face1.jpg',
+          width: 720,
+          height: 960,
         },
         {
           largeURL:
