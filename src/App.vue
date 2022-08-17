@@ -15,35 +15,35 @@ export default {
       images: [
         {
           largeURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex.jpg?raw=true',
           thumbnailURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg',
-          width: 1875,
-          height: 2500,
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex-thumb.jpg?raw=true',
+          width: 640,
+          height: 480,
         },
         {
           largeURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/art.jpg?raw=true',
           thumbnailURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg',
-          width: 1669,
-          height: 2500,
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/art-thumb.jpg?raw=true',
+          width: 960,
+          height: 960,
         },
         {
           largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/assets/photos/blizzcon.jpg?raw=true',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/blizzcon.jpg?raw=true',
           thumbnailURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/assets/photos/thumbnail/blizzcon.jpg?raw=true',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/blizzcon-thumb.jpg?raw=true',
           width: 2048,
           height: 1152,
         },
         {
           largeURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/band.jpg?raw=true',
           thumbnailURL:
-            'https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg',
-          width: 2500,
-          height: 1666,
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/band-thumb.jpg?raw=true',
+          width: 640,
+          height: 640,
         },
       ],
     };
