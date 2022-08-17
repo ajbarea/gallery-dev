@@ -240,7 +240,7 @@ export default {
         },
         { // vote
           largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote-thumb.jpg?raw=true',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote.jpg?raw=true',
           thumbnailURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote-thumb.jpg?raw=true',
           width: 540,
@@ -248,7 +248,7 @@ export default {
         },
         { // vote1
           largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote1-thumb.jpg?raw=true',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote1.jpg?raw=true',
           thumbnailURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote1-thumb.jpg?raw=true',
           width: 895,
