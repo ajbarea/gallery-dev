@@ -31,11 +31,11 @@ export default {
         },
         {
           largeURL:
-            'src/assets/photos/thumbnail/face1.jpg',
+            'https://github.com/ajbarea/gallery-dev/src/assets/photos/blizzcon.jpg',
           thumbnailURL:
-            'src/assets/photos/face1.jpg',
-          width: 720,
-          height: 960,
+            'https://github.com/ajbarea/gallery-dev/src/assets/photos/thumbnail/blizzcon.jpg',
+          width: 2048,
+          height: 1152,
         },
         {
           largeURL:
