@@ -21,7 +21,6 @@ export default {
           width: 960,
           height: 960,
         },
-
         { // band
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/band.jpg?raw=true',
@@ -173,8 +172,7 @@ export default {
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex-thumb.jpg?raw=true',
           width: 640,
           height: 480,
-        },
-        
+        }, 
         { // face3
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face3.jpg?raw=true',
