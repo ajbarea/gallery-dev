@@ -13,14 +13,6 @@ export default {
   data() {
     return {
       images: [
-        { // alex
-          largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex.jpg?raw=true',
-          thumbnailURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex-thumb.jpg?raw=true',
-          width: 640,
-          height: 480,
-        },
         { // art
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/art.jpg?raw=true',
@@ -126,6 +118,14 @@ export default {
           width: 1793,
           height: 1486,
         },
+        { // face2
+          largeURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face2.jpg?raw=true',
+          thumbnailURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face2-thumb.jpg?raw=true',
+          width: 560,
+          height: 960,
+        },
         { // con 6
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/con6.jpg?raw=true',
@@ -142,14 +142,6 @@ export default {
           width: 1810,
           height: 1490,
         },
-        { // fabian
-          largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/fabian.jpg?raw=true',
-          thumbnailURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/fabian-thumb.jpg?raw=true',
-          width: 453,
-          height: 301,
-        },
         { // face1
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face1.jpg?raw=true',
@@ -158,14 +150,31 @@ export default {
           width: 720,
           height: 960,
         },
-        { // face2
+        { // fabian
           largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face2.jpg?raw=true',
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/fabian.jpg?raw=true',
           thumbnailURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face2-thumb.jpg?raw=true',
-          width: 560,
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/fabian-thumb.jpg?raw=true',
+          width: 453,
+          height: 301,
+        },
+        { // vote
+          largeURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote.jpg?raw=true',
+          thumbnailURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote-thumb.jpg?raw=true',
+          width: 540,
           height: 960,
         },
+        { // alex
+          largeURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex.jpg?raw=true',
+          thumbnailURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/alex-thumb.jpg?raw=true',
+          width: 640,
+          height: 480,
+        },
+        
         { // face3
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/face3.jpg?raw=true',
@@ -236,14 +245,6 @@ export default {
           thumbnailURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/uncle-thumb.jpg?raw=true',
           width: 720,
-          height: 960,
-        },
-        { // vote
-          largeURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote.jpg?raw=true',
-          thumbnailURL:
-            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/vote-thumb.jpg?raw=true',
-          width: 540,
           height: 960,
         },
         { // vote1
