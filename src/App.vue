@@ -31,9 +31,9 @@ export default {
         },
         {
           largeURL:
-            'https://github.com/ajbarea/gallery-dev/src/assets/photos/blizzcon.jpg',
+            'https://github.com/ajbarea/gallery-dev/blob/main/assets/photos/blizzcon.jpg?raw=true',
           thumbnailURL:
-            'https://github.com/ajbarea/gallery-dev/src/assets/photos/thumbnail/blizzcon.jpg',
+            'https://github.com/ajbarea/gallery-dev/blob/main/assets/photos/thumbnail/blizzcon.jpg?raw=true',
           width: 2048,
           height: 1152,
         },
