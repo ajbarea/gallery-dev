@@ -13,6 +13,14 @@ export default {
   data() {
     return {
       images: [
+        { // youth
+          largeURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/youth.jpg?raw=true',
+          thumbnailURL:
+            'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/youth-thumb.jpg?raw=true',
+          width: 741,
+          height: 564,
+        },
         { // art
           largeURL:
             'https://github.com/ajbarea/gallery-dev/blob/main/src/assets/photos/art.jpg?raw=true',
